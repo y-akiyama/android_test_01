@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android Test App</string>
+
+    <string name="dialog_loading_message_loading">ロード中…</string>
+</resources>
