@@ -1,10 +1,10 @@
-package com.example.androidtestapp.controllers
+package com.example.androidtestapp.main
 
 import android.os.Bundle
+import android.support.v7.app.AppCompatActivity
 import com.example.androidtestapp.R
-import com.example.androidtestapp.shared.BaseActivity
 
-class MainActivity : BaseActivity() {
+class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
